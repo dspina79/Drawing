@@ -11,6 +11,7 @@
 		551A5CA3258A84C900F85B7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551A5CA2258A84C900F85B7E /* ContentView.swift */; };
 		551A5CA5258A84CE00F85B7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 551A5CA4258A84CE00F85B7E /* Assets.xcassets */; };
 		551A5CA8258A84CE00F85B7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 551A5CA7258A84CE00F85B7E /* Preview Assets.xcassets */; };
+		551A5CB1258AF19500F85B7E /* ArcView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551A5CB0258AF19500F85B7E /* ArcView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		551A5CA4258A84CE00F85B7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		551A5CA7258A84CE00F85B7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		551A5CA9258A84CE00F85B7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		551A5CB0258AF19500F85B7E /* ArcView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				551A5CA4258A84CE00F85B7E /* Assets.xcassets */,
 				551A5CA9258A84CE00F85B7E /* Info.plist */,
 				551A5CA6258A84CE00F85B7E /* Preview Content */,
+				551A5CB0258AF19500F85B7E /* ArcView.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				551A5CB1258AF19500F85B7E /* ArcView.swift in Sources */,
 				551A5CA3258A84C900F85B7E /* ContentView.swift in Sources */,
 				551A5CA1258A84C900F85B7E /* DrawingApp.swift in Sources */,
 			);
