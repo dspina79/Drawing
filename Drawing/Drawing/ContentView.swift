@@ -64,17 +64,26 @@ struct ContentView: View {
     @State private var petalWidth: Double = 100
     
     var body: some View {
-        VStack {
-            Flower(petaOffset: petalOffset, petalWidth: petalWidth)
-                .fill(Color.blue, style: FillStyle(eoFill: true))
-            
-            Text("Offset: \(petalOffset)")
-            Slider(value: $petalOffset, in: -40...40)
-                .padding(.horizontal)
-            Text("Width: \(petalWidth)")
-            Slider(value: $petalWidth, in: 1...100)
-                .padding(.horizontal)
+        ZStack {
+        LinearGradient(gradient: Gradient(colors: [.blue, .green]), startPoint: .top, endPoint: .bottom)
+            VStack {
+                Capsule()
+                    .strokeBorder(ImagePaint(image: Image("me"), scale: 0.1), lineWidth: 25)
+                    .frame(width: 200, height: 300)
+                    
+            }
         }
+        //        VStack {
+//            Flower(petaOffset: petalOffset, petalWidth: petalWidth)
+//                .fill(Color.blue, style: FillStyle(eoFill: true))
+//
+//            Text("Offset: \(petalOffset)")
+//            Slider(value: $petalOffset, in: -40...40)
+//                .padding(.horizontal)
+//            Text("Width: \(petalWidth)")
+//            Slider(value: $petalWidth, in: 1...100)
+//                .padding(.horizontal)
+//        }
     }
 }
 
