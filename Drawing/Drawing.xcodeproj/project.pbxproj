@@ -15,6 +15,7 @@
 		551A5CB4258C690F00F85B7E /* Flower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551A5CB3258C690F00F85B7E /* Flower.swift */; };
 		551A5CB7258C69F700F85B7E /* ImageBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551A5CB6258C69F700F85B7E /* ImageBorder.swift */; };
 		551A5CBA258C6F4B00F85B7E /* DrawingGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551A5CB9258C6F4B00F85B7E /* DrawingGroupExample.swift */; };
+		55B06617258DB1B90063F276 /* SpecialEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06616258DB1B90063F276 /* SpecialEffects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		551A5CB3258C690F00F85B7E /* Flower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flower.swift; sourceTree = "<group>"; };
 		551A5CB6258C69F700F85B7E /* ImageBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBorder.swift; sourceTree = "<group>"; };
 		551A5CB9258C6F4B00F85B7E /* DrawingGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingGroupExample.swift; sourceTree = "<group>"; };
+		55B06616258DB1B90063F276 /* SpecialEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEffects.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				551A5CB3258C690F00F85B7E /* Flower.swift */,
 				551A5CB6258C69F700F85B7E /* ImageBorder.swift */,
 				551A5CB9258C6F4B00F85B7E /* DrawingGroupExample.swift */,
+				55B06616258DB1B90063F276 /* SpecialEffects.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				551A5CB7258C69F700F85B7E /* ImageBorder.swift in Sources */,
 				551A5CB1258AF19500F85B7E /* ArcView.swift in Sources */,
 				551A5CA3258A84C900F85B7E /* ContentView.swift in Sources */,
+				55B06617258DB1B90063F276 /* SpecialEffects.swift in Sources */,
 				551A5CBA258C6F4B00F85B7E /* DrawingGroupExample.swift in Sources */,
 				551A5CB4258C690F00F85B7E /* Flower.swift in Sources */,
 				551A5CA1258A84C900F85B7E /* DrawingApp.swift in Sources */,
