@@ -17,6 +17,7 @@
 		551A5CBA258C6F4B00F85B7E /* DrawingGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551A5CB9258C6F4B00F85B7E /* DrawingGroupExample.swift */; };
 		55B06617258DB1B90063F276 /* SpecialEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06616258DB1B90063F276 /* SpecialEffects.swift */; };
 		55B0661A258EE8210063F276 /* TrapezoidAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06619258EE8210063F276 /* TrapezoidAnimation.swift */; };
+		55B0661D258EEE390063F276 /* CheckerboardDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		551A5CB9258C6F4B00F85B7E /* DrawingGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingGroupExample.swift; sourceTree = "<group>"; };
 		55B06616258DB1B90063F276 /* SpecialEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEffects.swift; sourceTree = "<group>"; };
 		55B06619258EE8210063F276 /* TrapezoidAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapezoidAnimation.swift; sourceTree = "<group>"; };
+		55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckerboardDisplay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				551A5CB9258C6F4B00F85B7E /* DrawingGroupExample.swift */,
 				55B06616258DB1B90063F276 /* SpecialEffects.swift */,
 				55B06619258EE8210063F276 /* TrapezoidAnimation.swift */,
+				55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55B0661D258EEE390063F276 /* CheckerboardDisplay.swift in Sources */,
 				551A5CB7258C69F700F85B7E /* ImageBorder.swift in Sources */,
 				551A5CB1258AF19500F85B7E /* ArcView.swift in Sources */,
 				551A5CA3258A84C900F85B7E /* ContentView.swift in Sources */,
