@@ -18,6 +18,7 @@
 		55B06617258DB1B90063F276 /* SpecialEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06616258DB1B90063F276 /* SpecialEffects.swift */; };
 		55B0661A258EE8210063F276 /* TrapezoidAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06619258EE8210063F276 /* TrapezoidAnimation.swift */; };
 		55B0661D258EEE390063F276 /* CheckerboardDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */; };
+		55B06620258EFB1A0063F276 /* SpriographDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B0661F258EFB1A0063F276 /* SpriographDisplay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		55B06616258DB1B90063F276 /* SpecialEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEffects.swift; sourceTree = "<group>"; };
 		55B06619258EE8210063F276 /* TrapezoidAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapezoidAnimation.swift; sourceTree = "<group>"; };
 		55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckerboardDisplay.swift; sourceTree = "<group>"; };
+		55B0661F258EFB1A0063F276 /* SpriographDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriographDisplay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				55B06616258DB1B90063F276 /* SpecialEffects.swift */,
 				55B06619258EE8210063F276 /* TrapezoidAnimation.swift */,
 				55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */,
+				55B0661F258EFB1A0063F276 /* SpriographDisplay.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				55B0661A258EE8210063F276 /* TrapezoidAnimation.swift in Sources */,
 				551A5CB4258C690F00F85B7E /* Flower.swift in Sources */,
 				551A5CA1258A84C900F85B7E /* DrawingApp.swift in Sources */,
+				55B06620258EFB1A0063F276 /* SpriographDisplay.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
