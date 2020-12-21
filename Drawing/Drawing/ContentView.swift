@@ -43,7 +43,8 @@ struct Arc: InsettableShape {
 
 struct ContentView: View {
     var body: some View {
-        SpriographDisplay()
+        //SpriographDisplay()
+        DrawingGroupExample()
     }
 }
 
