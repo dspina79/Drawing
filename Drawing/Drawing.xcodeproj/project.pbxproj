@@ -19,6 +19,7 @@
 		55B0661A258EE8210063F276 /* TrapezoidAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06619258EE8210063F276 /* TrapezoidAnimation.swift */; };
 		55B0661D258EEE390063F276 /* CheckerboardDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */; };
 		55B06620258EFB1A0063F276 /* SpriographDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B0661F258EFB1A0063F276 /* SpriographDisplay.swift */; };
+		55B06627259036C10063F276 /* ArrowDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B06626259036C10063F276 /* ArrowDisplay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		55B06619258EE8210063F276 /* TrapezoidAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapezoidAnimation.swift; sourceTree = "<group>"; };
 		55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckerboardDisplay.swift; sourceTree = "<group>"; };
 		55B0661F258EFB1A0063F276 /* SpriographDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriographDisplay.swift; sourceTree = "<group>"; };
+		55B06626259036C10063F276 /* ArrowDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowDisplay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				55B06619258EE8210063F276 /* TrapezoidAnimation.swift */,
 				55B0661C258EEE390063F276 /* CheckerboardDisplay.swift */,
 				55B0661F258EFB1A0063F276 /* SpriographDisplay.swift */,
+				55B06626259036C10063F276 /* ArrowDisplay.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				551A5CBA258C6F4B00F85B7E /* DrawingGroupExample.swift in Sources */,
 				55B0661A258EE8210063F276 /* TrapezoidAnimation.swift in Sources */,
 				551A5CB4258C690F00F85B7E /* Flower.swift in Sources */,
+				55B06627259036C10063F276 /* ArrowDisplay.swift in Sources */,
 				551A5CA1258A84C900F85B7E /* DrawingApp.swift in Sources */,
 				55B06620258EFB1A0063F276 /* SpriographDisplay.swift in Sources */,
 			);
